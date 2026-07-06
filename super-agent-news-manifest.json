@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "Business Standard",
+      "title": "Workflow sync crucial to get maximum AI returns",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONUcxS1paUlMtYldaaFk5c21CdXJnZ3NveXBVOGI4T0FONTNpQW4xTHhNYlNjWklQWWhHSWI0bjZEM2hqd0N1dnJaSmJiTnJQYzg5SGRXbThKN0pVcmpfTGRWWUlENk9nUTUwNXRhdXNZeS1FNk1IRGFod3N6SHk0TF9CNFNuS0ZpUldFQ1YtZG9IUXlYemlXQ0tNMHRLNS1Ua2I2TUg2cWNtUzRZMG9KemU2UnktOWFROE5HZzZfLUNjNUxhQnJZZXBHQWdmQjBzMHNZSko4bFNWdzIyOVRzZHk1Rzh2V2dZUjVV0gHwAUFVX3lxTE52eXhUdTlxTGhXMWUyLWRWLWppYXFYczBQN2steTJXWWFPQlBGNEUwSjQ1NXVvdVdHSVN0U1k3Zk1LaTVsNFh2NEpsVlNMS3MwYVNMNXNGcldjVVE2aERNV2Ixb2xQQW5Id2xEUFNkdGczeWMxQzljSEtSbmZ6WmxvUFlZcDJzTzNoZjhKc0lGNWVUdXhCT1B4aEVqVkl1Ym5waWZGb1p5aG5fTHhieWtTX09QMThJMmVuRHhWTUdkbjJUdzNXOF96YU9xOWF1eWJ1YU4tQVhZdkxGaFFVZVZNcWcxc2NwbmNxMDBrNHRweg?oc=5"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "SC Media",
+      "title": "Shell injection flaw found in open-source AI agents",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa?oc=5"
+    },
+    {
+      "source": "blog.google",
+      "title": "Introducing computer use in Gemini",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/"
+    },
+    {
+      "source": "Anthropic Engineering",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "MIT News",
+      "title": "What is agentic AI today?",
+      "url": "https://news.mit.edu/2025/qa-what-agentic-ai-today-and-what-do-we-want-it-be"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed('Super for local service businesses handling bookings, quotes, and customer replies' + 'niche_landing' + 'local service businesses' + '2026-07-06T00:03:15.509640+00:00') -> hero='workflow-command-center', font='Cabinet Grotesk', components=['gapless-bento-grid','workflow-playbook-timeline','implementation-checklist'], gsap=['pinned-chapter-scroll','hover-physics'] | AIDA Check: Nav \u2705 Attention Hero \u2705 Interest Proof/Bento \u2705 Desire Motion \u2705 Action CTA \u2705 | Font Selection: Cabinet Grotesk (Fontshare) \u2705 | Hero Math Verification: H1 max-width 1120px, clamp(44px\u201372px) \u2192 2\u20133 lines \u2705 | Bento Density Verification: grid-template-columns repeat(auto-fit,minmax(280px,1fr)) + grid-auto-flow: dense; no empty gaps \u2705 | GSAP Motion Selection: pinned chapter + hover physics \u2705 | Label Sweep & Button Check: no cheap meta-labels; black/white pill contrast verified \u2705",
+  "generated_at": "2026-07-06T00:04:14.192215+00:00",
+  "headline": "Super for local service businesses handling bookings, quotes, and customer replies",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A premium niche landing page showing how Super\u2019s personal AI agents operate real software, reuse a computer-use cache for repeated office work, and help local service teams respond faster to customers without brittle integrations."
+}
